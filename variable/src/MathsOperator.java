@@ -1,7 +1,7 @@
 
 public class MathsOperator {
 public static void main(String[] args) {
-	int num1=100;
+	int num1=90;
 	int num2;
 	System.out.println("beginning number:"+num1);
 	
