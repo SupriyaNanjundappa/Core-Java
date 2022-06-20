@@ -1,6 +1,6 @@
 package com.project.abstraction;
 
-public abstract class Hero {
+public abstract class Hero1 {
 	public void engine() {
 		System.out.println("Engine is impplemented by Hero company");
 	}

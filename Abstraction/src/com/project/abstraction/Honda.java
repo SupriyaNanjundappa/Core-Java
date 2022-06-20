@@ -1,6 +1,6 @@
 package com.project.abstraction;
 
-public class Honda extends Hero {
+public class Honda extends Hero1 {
 
 	@Override
 	public void body() {
