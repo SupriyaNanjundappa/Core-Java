@@ -1,0 +1,52 @@
+ Basic Progamming Session
+
+Day1
+1.What is Java?
+  General purpose ---We can develop Web Apps,Desktop App, Ecommerce
+  Class based--------Every Program based on class only
+  High level---------More secured version of programming language
+  Object Oriented progtramming language
+2.What is Objects?
+   Everything in the real world whaterever we see
+   Example--Byke,bus,table  ect
+
+   Every object consists of two things that is 
+   1.Properties/states            2.Behaviour/Function/Methods
+for Byke
+   Name,color,price,               bike can ppl,
+   Engine,brand                    Bike can carry lagguage
+
+3.What is DataType?
+
+  Types
+4.What is VAriable?
+5.What is Class?
+
+Day2
+Eclipse Installation
+JDK Package
+
+Day3
+Variables in Java
+
+Day4
+Constructors
+
+Day5
+Decision Making statements
+
+Day6
+Oops
+1.Inheritance
+2.Polymorphism
+
+Day7
+3.Abstraction
+4.Encapsulation
+
+Day8
+Access Modifier
+1.Private-- CAn be accessed only within the class
+2.Default-- Can be accessed within the same Package
+3.Protected-- Can be accessed anywhere within the package and outside package through Inheritance
+4.Public ---Can be accessed anywhere
